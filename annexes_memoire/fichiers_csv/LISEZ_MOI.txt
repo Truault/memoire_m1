@@ -1,0 +1,32 @@
+################# Information sur les fichiers csv ######################################
+
+
+
+
+
+Le dossier localisation comprend le tableau des focus scores par localisation disponible dans le document principal.
+
+Abbréviations:
+
+
+Les lettres qui suivent "words_", "bigrams_", etc. correspondent aux groupes et segments suivants:
+
+groupes
+centre : centre-droit
+eelv: droits Humains | Europe écologie les Verts
+lfi : La France Insoumise et extrême-gauche
+lr : Les Républicains
+lrem : La République en Marche 
+rn : Rassemblement National
+soc: socialistes et affiliés
+mm : Principaux médias
+
+segments
+droit_j : journalistes juridiques parisiens
+econ_j : journalistes economiques 
+laic_j : journalistes laïc et thématiques religieuses
+m_j : principaux journalistes
+tv_nat : télévision nationale et chaîne d'information
+pol_j : journalistes politiques et agences de presse
+cons: journalistes conservateurs
+bretagne: journalistes bretons et hommes politiques associés

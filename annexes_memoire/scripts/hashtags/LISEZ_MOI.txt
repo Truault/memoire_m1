@@ -1,0 +1,25 @@
+
+
+
+###########################################Description des scripts pour les hastags #############################################
+
+
+
+
+J'ai utilisé les librairies Pandas, et Numpy du langage Python (dernière version). L'écriture du programme a été réalisé sur un notebook jupyter, 
+émulé par Anaconda Navigator, et dans l'environnement conda.
+Pour l'utiliser, installer Python sur l'ordinateur, l'environnement conda puis l'application Anaconda Navigator.Choisir "Jupyter Notebook". 
+
+Pour plus d'informations, voir:
+
+https://www.python.org/
+
+https://docs.conda.io/en/latest/miniconda.html
+
+https://numpy.org/doc/stable/
+
+https://pandas.pydata.org/docs/
+
+
+
+
